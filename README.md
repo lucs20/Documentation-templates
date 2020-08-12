@@ -18,7 +18,7 @@ Use this template to describe your contribution to the project
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](https://upload.wikimedia.org/wikipedia/commons/2/23/Joshua_Tree_Nationalpark_IMG_20180413_143227.jpg)
+![Example screenshot](joshua.jpg)
 
 ## Technologies
 * Tech 1 - version 1.0
@@ -47,6 +47,3 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
