@@ -18,7 +18,7 @@ Use this template to describe your contribution to the project
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](https://upload.wikimedia.org/wikipedia/commons/2/23/Joshua_Tree_Nationalpark_IMG_20180413_143227.jpg)
 
 ## Technologies
 * Tech 1 - version 1.0
