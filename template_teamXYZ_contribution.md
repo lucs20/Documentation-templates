@@ -1,49 +1,15 @@
-# Readme_cheatsheet
-Use this template to describe your contribution to the project
+## Challenge design 
+Include following information:
+* Event name e.g OEHD 2019
+* Challenge design
+* Initial setup
+* Include links to event site
 
-# Project Name
-> Project Name
+## Contribution
+Describe your contribution to the solution.
 
-## Table of contents (optional)
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+## Nice to know and issues
+Speak about issues you faced during the challenge
 
-## General info
-Here goes your awesome project description and motivation!
-
-## Screenshots
-![Example screenshot](joshua.jpg)
-
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
-
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
+## Data sources
+List your data sources
