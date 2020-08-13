@@ -9,21 +9,24 @@ Instructions how to integrate the template to your repository.
 ## Intructions if creating a new repository
 #### 1. Open the readme template
 
-#### 2. Copy raw
+#### 2. Open raw and copy content
+![raw1](/img/raw.png)
 
-#### 3. Paste in your own repository
+#### 3. Paste content in your own readme.md file
 
 #### 4. You may add as much information as you want but these are the minimum requirements
 
 ## Intructions if contributing to existing or forked repository
-#### Open the contribution template
+#### 1. Open the contribution template
 
-#### 1. Copy raw
+#### 2. Open raw and copy content
+![raw1](/img/raw.png)
 
-#### 2. Create a new .md file in the existing repository
+#### 3. Create a new .md file in the existing repository
+Use something as TeamXY_contribution.md as name
 
-#### 3. Paste template
+#### 4. Paste raw content into new .md file
 
-#### 4. You may add as much information as you want but these are the minimum requirements.
+#### 5. You may add as much information as you want but these are the minimum requirements.
 
 
