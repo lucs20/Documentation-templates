@@ -7,7 +7,23 @@ Instructions how to integrate the template to your repository.
 * [Intructions if contributing to existing or forked repository](#intructions-if-contributing-to-existing-or-forked-repository)
 
 ## Intructions if creating a new repository
-bla
+#### 1.) Open the readme template
+
+#### 2.) Copy raw
+
+#### 3.) Paste in your own repository
+
+#### 4.) You may add as much information as you want but these are the minimum requirements
 
 ## Intructions if contributing to existing or forked repository
-bla2
+#### Open the contribution template
+
+#### 1.) Copy raw
+
+#### 2.) Create a new .md file in the existing repository
+
+#### 3.) Paste template
+
+#### 4.) You may add as much information as you want but these are the minimum requirements.
+
+
