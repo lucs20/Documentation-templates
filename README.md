@@ -20,7 +20,7 @@ Instructions how to integrate the template to your repository.
 #### 1. Open the [contribution](https://github.com/BFEdigital/Documentation-templates/blob/master/template_teamXYZ_contribution.md) template
 
 #### 2. Open raw and copy content
-![raw1](/img/raw.png)
+![raw1](/img/raw_cont.png)
 
 #### 3. Create a new .md file in the existing repository
 Use something as TeamXY_contribution.md as name
