@@ -2,9 +2,9 @@
 Use this template to describe your contribution to the project
 
 # Project Name
-> Here goes your awesome project description!
+> Project Name
 
-## Table of contents
+## Table of contents (optional)
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
@@ -15,7 +15,7 @@ Use this template to describe your contribution to the project
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Here goes your awesome project description and motivation!
 
 ## Screenshots
 ![Example screenshot](joshua.jpg)
