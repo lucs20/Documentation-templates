@@ -7,7 +7,7 @@ Instructions how to integrate the template to your repository.
 * [Intructions if contributing to existing or forked repository](#intructions-if-contributing-to-existing-or-forked-repository)
 
 ## Intructions if creating a new repository
-#### 1. Open the readme template
+#### 1. Open the [readme](https://github.com/BFEdigital/Documentation-templates/blob/master/template_readme.md) template
 
 #### 2. Open raw and copy content
 ![raw1](/img/raw.png)
@@ -17,7 +17,7 @@ Instructions how to integrate the template to your repository.
 #### 4. You may add as much information as you want but these are the minimum requirements
 
 ## Intructions if contributing to existing or forked repository
-#### 1. Open the contribution template
+#### 1. Open the [contribution](https://github.com/BFEdigital/Documentation-templates/blob/master/template_teamXYZ_contribution.md) template
 
 #### 2. Open raw and copy content
 ![raw1](/img/raw.png)
