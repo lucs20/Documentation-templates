@@ -1,4 +1,4 @@
-# Instruction for Readme or contribution description
+# Instruction for readme or contribution description
 
 Instructions how to integrate the template to your repository.
 
