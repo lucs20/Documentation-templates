@@ -1,4 +1,4 @@
-# Readme cheatsheet
+# Instruction for Readme or contribution description
 
 Instructions how to integrate the template to your repository.
 
