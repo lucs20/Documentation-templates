@@ -1,7 +1,7 @@
 # Write your project name
 Here goes your awesome project description and motivation! (Short)
 
-## Table of contents (optional)
+## Table of contents
 * [Challenge design](#challenge-design)
 * [Approach](#approach)
 * [Nice to know and issues](#nice-to-know-and-issues)
