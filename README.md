@@ -16,6 +16,9 @@ Instructions how to integrate the template to your repository.
 
 #### 4. You may add as much information as you want but these are the minimum requirements
 
+
+
+
 ## Intructions if contributing to existing or forked repository
 #### 1. Open the [contribution](https://github.com/BFEdigital/Documentation-templates/blob/master/template_teamXYZ_contribution.md) template
 
